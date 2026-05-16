@@ -31,7 +31,7 @@ elif command -v zypper >/dev/null 2>&1; then
         gcc-c++ \
         make \
         curl \
-        sqlite3-devel \
+        sqlite-devel \
         libzip-devel
 
 else
